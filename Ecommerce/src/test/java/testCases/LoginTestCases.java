@@ -18,7 +18,7 @@ public class LoginTestCases extends BaseClass {
 			login.Clickonsignin();
 			logger.info("Clicked on sign");
 			login.Srcollsign();
-			login.EnterEmail("mares44294@javnoi.com");
+			login.EnterEmail("mares42294@javnoi.com");
 			login.EnterPassword("password");
 			login.ClickOnSignButton();
 			String actualtext = login.getUserName();
@@ -43,7 +43,7 @@ public class LoginTestCases extends BaseClass {
 			LoginPage login = new LoginPage(driver);
 			login.Clickonsignin();
 			login.Srcollsign();
-			login.EnterEmail("mares44294@javnoi.com");
+			login.EnterEmail("mares42294@javnoi.com");
 			login.EnterPassword("passwordSS");
 			login.ClickOnSignButton();
 			String actualtext = login.getloginerrormsg();
@@ -67,7 +67,7 @@ public class LoginTestCases extends BaseClass {
 			LoginPage login = new LoginPage(driver);
 			login.Clickonsignin();
 			login.Srcollsign();
-			login.EnterEmail("mares44294@javnoi.com");
+			login.EnterEmail("mares42294@javnoi.com");
 			login.EnterPassword("password");
 			login.ClickOnSignButton();
 			login.ClickOnSignout();

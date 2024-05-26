@@ -24,7 +24,7 @@ public class AddandPaymentTestCases extends BaseClass {
 			LoginPage login = new LoginPage(driver);
 			login.Clickonsignin();
 			login.Srcollsign();
-			login.EnterEmail("mares44294@javnoi.com");
+			login.EnterEmail("mares42294@javnoi.com");
 			login.EnterPassword("password");
 			logger.info("User Email and Password entered.");
 			login.ClickOnSignButton();
@@ -74,6 +74,7 @@ public class AddandPaymentTestCases extends BaseClass {
 
 	@Test()
 	public void TC_CO_002_VerifyAddToWishlistWithoutLogin() throws IOException {
+		logger.info("***************TestCase AddToWishlistWithoutLogin start*****************");
 		try {
 			AddandPayment addpayment = new AddandPayment(driver);
 			LoginPage login = new LoginPage(driver);
@@ -108,6 +109,6 @@ public class AddandPaymentTestCases extends BaseClass {
 			e.printStackTrace();
 			Assert.fail();
 		}
-
+		logger.info("***************TestCase AddToWishlistWithoutLogin End *****************");
 	}
 }

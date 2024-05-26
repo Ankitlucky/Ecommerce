@@ -17,7 +17,7 @@ public class ProductPriceTestCases extends BaseClass {
 			LoginPage login = new LoginPage(driver);
 			login.Clickonsignin();
 			login.Srcollsign();
-			login.EnterEmail("mares44294@javnoi.com");
+			login.EnterEmail("mares42294@javnoi.com");
 			login.EnterPassword("password");
 			login.ClickOnSignButton();
 			SearchProduct search = new SearchProduct(driver);

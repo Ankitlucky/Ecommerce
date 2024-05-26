@@ -18,7 +18,7 @@ public class SearchTestCase extends BaseClass {
 		
 		login.Clickonsignin();
 		login.Srcollsign();
-		login.EnterEmail("mares44294@javnoi.com");
+		login.EnterEmail("mares42294@javnoi.com");
 		login.EnterPassword("password");
 		logger.info("User Email and Password entered.");
 		login.ClickOnSignButton();
