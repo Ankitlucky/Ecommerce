@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
@@ -30,13 +31,13 @@ public class ProductPriceTestCases extends BaseClass {
 			String expectedText = "$16";
 			logger.info("*************** get price of Product ends*****************");
 			System.out.println("Actual Text>>" + actualtext + "\n" + "Expected text>>" + expectedText + "\n");
-			AssertJUnit.assertEquals(actualtext, expectedText);
+			Assert.assertEquals(actualtext, expectedText);
 			logger.info("***************TestCase get text and price of Product ends*****************");
 
 		} catch (Exception e) {
 
 			e.printStackTrace();
-			AssertJUnit.fail();
+			Assert.fail();
 		}
 	}
 }

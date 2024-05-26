@@ -1,5 +1,6 @@
 package testCases;
 
+import org.testng.Assert;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
@@ -29,11 +30,11 @@ public class SearchTestCase extends BaseClass {
 		String actualtext = search.getproductname();
 		String expectedErrText ="Printed Chiffon Dress";
 		System.out.println("ActualError Text -"+ actualtext +"\n" +"expected Err Text -"+expectedErrText+"\n");
-		AssertJUnit.assertEquals(actualtext,expectedErrText);
+		Assert.assertEquals(actualtext,expectedErrText);
 		}
 		catch(Exception e) {
 			e.printStackTrace();
-			AssertJUnit.fail();
+			Assert.fail();
 			
 		}
 		logger.info("***************TestCase Search Product ends*****************"); 
