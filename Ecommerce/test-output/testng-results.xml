@@ -2,74 +2,74 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-26T09:22:46 IST" name="Suite" finished-at="2024-05-26T09:24:12 IST" duration-ms="86169">
+  <suite started-at="2024-05-26T10:05:41 IST" name="Suite" finished-at="2024-05-26T10:07:00 IST" duration-ms="78395">
     <groups>
     </groups>
-    <test started-at="2024-05-26T09:22:46 IST" name="Test" finished-at="2024-05-26T09:24:12 IST" duration-ms="86169">
+    <test started-at="2024-05-26T10:05:41 IST" name="Test" finished-at="2024-05-26T10:07:00 IST" duration-ms="78395">
       <class name="testCases.ProductPriceTestCases">
-        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.ProductPriceTestCases@53142455]" started-at="2024-05-26T09:22:46 IST" name="openurl" finished-at="2024-05-26T09:22:58 IST" duration-ms="11866" status="PASS">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.ProductPriceTestCases@7d64e326]" started-at="2024-05-26T10:05:41 IST" name="openurl" finished-at="2024-05-26T10:05:52 IST" duration-ms="10911" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openurl -->
-        <test-method signature="VerifyProductPrice()[pri:0, instance:testCases.ProductPriceTestCases@53142455]" started-at="2024-05-26T09:22:58 IST" name="VerifyProductPrice" finished-at="2024-05-26T09:23:05 IST" duration-ms="6728" status="PASS">
+        <test-method signature="VerifyProductPrice()[pri:0, instance:testCases.ProductPriceTestCases@7d64e326]" started-at="2024-05-26T10:05:52 IST" name="VerifyProductPrice" finished-at="2024-05-26T10:05:59 IST" duration-ms="6353" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyProductPrice -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.ProductPriceTestCases@53142455]" started-at="2024-05-26T09:23:05 IST" name="afterTest" finished-at="2024-05-26T09:23:06 IST" duration-ms="1496" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.ProductPriceTestCases@7d64e326]" started-at="2024-05-26T10:05:59 IST" name="afterTest" finished-at="2024-05-26T10:06:00 IST" duration-ms="1125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testCases.ProductPriceTestCases -->
       <class name="testCases.SearchTestCase">
-        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.SearchTestCase@5cdd09b1]" started-at="2024-05-26T09:24:00 IST" name="openurl" finished-at="2024-05-26T09:24:07 IST" duration-ms="6795" status="PASS">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.SearchTestCase@436bc36]" started-at="2024-05-26T10:06:49 IST" name="openurl" finished-at="2024-05-26T10:06:55 IST" duration-ms="6165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openurl -->
-        <test-method signature="VerifySearchProduct()[pri:0, instance:testCases.SearchTestCase@5cdd09b1]" started-at="2024-05-26T09:24:07 IST" name="VerifySearchProduct" finished-at="2024-05-26T09:24:10 IST" duration-ms="3172" status="PASS">
+        <test-method signature="VerifySearchProduct()[pri:0, instance:testCases.SearchTestCase@436bc36]" started-at="2024-05-26T10:06:55 IST" name="VerifySearchProduct" finished-at="2024-05-26T10:06:58 IST" duration-ms="3108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySearchProduct -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.SearchTestCase@5cdd09b1]" started-at="2024-05-26T09:24:10 IST" name="afterTest" finished-at="2024-05-26T09:24:12 IST" duration-ms="2032" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.SearchTestCase@436bc36]" started-at="2024-05-26T10:06:58 IST" name="afterTest" finished-at="2024-05-26T10:07:00 IST" duration-ms="1560" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testCases.SearchTestCase -->
       <class name="testCases.AddandPaymentTestCases">
-        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.AddandPaymentTestCases@302a07d]" started-at="2024-05-26T09:23:22 IST" name="openurl" finished-at="2024-05-26T09:23:29 IST" duration-ms="6518" status="PASS">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.AddandPaymentTestCases@49d3c823]" started-at="2024-05-26T10:06:14 IST" name="openurl" finished-at="2024-05-26T10:06:20 IST" duration-ms="6127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openurl -->
-        <test-method signature="VerifyAddToWishlistWithoutLogin()[pri:0, instance:testCases.AddandPaymentTestCases@302a07d]" started-at="2024-05-26T09:23:29 IST" name="VerifyAddToWishlistWithoutLogin" finished-at="2024-05-26T09:23:39 IST" duration-ms="10342" status="PASS">
+        <test-method signature="VerifyAddToWishlistWithoutLogin()[pri:0, instance:testCases.AddandPaymentTestCases@49d3c823]" started-at="2024-05-26T10:06:20 IST" name="VerifyAddToWishlistWithoutLogin" finished-at="2024-05-26T10:06:30 IST" duration-ms="9834" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAddToWishlistWithoutLogin -->
-        <test-method signature="VerifyBuyProduct()[pri:0, instance:testCases.AddandPaymentTestCases@302a07d]" started-at="2024-05-26T09:23:39 IST" name="VerifyBuyProduct" finished-at="2024-05-26T09:23:59 IST" duration-ms="19794" status="PASS">
+        <test-method signature="VerifyBuyProduct()[pri:0, instance:testCases.AddandPaymentTestCases@49d3c823]" started-at="2024-05-26T10:06:30 IST" name="VerifyBuyProduct" finished-at="2024-05-26T10:06:48 IST" duration-ms="17966" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyBuyProduct -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.AddandPaymentTestCases@302a07d]" started-at="2024-05-26T09:23:59 IST" name="afterTest" finished-at="2024-05-26T09:24:00 IST" duration-ms="1223" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.AddandPaymentTestCases@49d3c823]" started-at="2024-05-26T10:06:48 IST" name="afterTest" finished-at="2024-05-26T10:06:49 IST" duration-ms="934" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testCases.AddandPaymentTestCases -->
       <class name="testCases.LoginTestCases">
-        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.LoginTestCases@2c7b5824]" started-at="2024-05-26T09:23:06 IST" name="openurl" finished-at="2024-05-26T09:23:14 IST" duration-ms="7441" status="PASS">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testCases.LoginTestCases@906d29b]" started-at="2024-05-26T10:06:00 IST" name="openurl" finished-at="2024-05-26T10:06:06 IST" duration-ms="6393" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openurl -->
-        <test-method signature="VerifyLoginWithValidCredentials()[pri:-1, instance:testCases.LoginTestCases@2c7b5824]" started-at="2024-05-26T09:23:14 IST" name="VerifyLoginWithValidCredentials" finished-at="2024-05-26T09:23:17 IST" duration-ms="3176" status="PASS">
+        <test-method signature="VerifyLoginWithValidCredentials()[pri:-1, instance:testCases.LoginTestCases@906d29b]" started-at="2024-05-26T10:06:06 IST" name="VerifyLoginWithValidCredentials" finished-at="2024-05-26T10:06:09 IST" duration-ms="2988" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLoginWithValidCredentials -->
-        <test-method signature="VerifyLoginWithInvalidCredentials()[pri:0, instance:testCases.LoginTestCases@2c7b5824]" started-at="2024-05-26T09:23:17 IST" name="VerifyLoginWithInvalidCredentials" finished-at="2024-05-26T09:23:18 IST" duration-ms="1580" status="PASS">
+        <test-method signature="VerifyLoginWithInvalidCredentials()[pri:0, instance:testCases.LoginTestCases@906d29b]" started-at="2024-05-26T10:06:09 IST" name="VerifyLoginWithInvalidCredentials" finished-at="2024-05-26T10:06:10 IST" duration-ms="1261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLoginWithInvalidCredentials -->
-        <test-method signature="VerifySignOut()[pri:1, instance:testCases.LoginTestCases@2c7b5824]" started-at="2024-05-26T09:23:18 IST" name="VerifySignOut" finished-at="2024-05-26T09:23:21 IST" duration-ms="2612" status="PASS">
+        <test-method signature="VerifySignOut()[pri:1, instance:testCases.LoginTestCases@906d29b]" started-at="2024-05-26T10:06:10 IST" name="VerifySignOut" finished-at="2024-05-26T10:06:13 IST" duration-ms="2803" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySignOut -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.LoginTestCases@2c7b5824]" started-at="2024-05-26T09:23:21 IST" name="afterTest" finished-at="2024-05-26T09:23:22 IST" duration-ms="1306" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.LoginTestCases@906d29b]" started-at="2024-05-26T10:06:13 IST" name="afterTest" finished-at="2024-05-26T10:06:14 IST" duration-ms="766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

@@ -1,0 +1,36 @@
+[INFO ] 2024-05-26 10:05:52.694 [main] Ecommerce - ***************TestCase get text and price of Product Start*****************
+[INFO ] 2024-05-26 10:05:54.886 [main] Ecommerce - ***************get product text *****************
+[INFO ] 2024-05-26 10:05:59.029 [main] Ecommerce - *************** get price of Product ends*****************
+[INFO ] 2024-05-26 10:05:59.033 [main] Ecommerce - ***************TestCase get text and price of Product ends*****************
+[INFO ] 2024-05-26 10:06:06.567 [main] Ecommerce - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-05-26 10:06:07.584 [main] Ecommerce - Clicked on sign
+[INFO ] 2024-05-26 10:06:09.554 [main] Ecommerce - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-05-26 10:06:09.564 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials start *****************
+[INFO ] 2024-05-26 10:06:10.820 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials ends*****************
+[INFO ] 2024-05-26 10:06:10.836 [main] Ecommerce - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-05-26 10:06:13.633 [main] Ecommerce - VerifySignOut - Passed
+[INFO ] 2024-05-26 10:06:13.633 [main] Ecommerce - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-05-26 10:06:20.546 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 10:06:25.106 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 10:06:25.363 [main] Ecommerce - Clicked on add to cart
+[INFO ] 2024-05-26 10:06:30.373 [main] Ecommerce - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2024-05-26 10:06:30.373 [main] Ecommerce - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-05-26 10:06:31.284 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 10:06:32.121 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 10:06:35.383 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 10:06:35.656 [main] Ecommerce - Clicked on add to cart
+[INFO ] 2024-05-26 10:06:37.683 [main] Ecommerce - Clicked on proceed to checkout on product page
+[INFO ] 2024-05-26 10:06:37.683 [main] Ecommerce - Product successfully added to your shopping cart
+[INFO ] 2024-05-26 10:06:40.202 [main] Ecommerce - Clicked on proceed to checkout page
+[INFO ] 2024-05-26 10:06:42.017 [main] Ecommerce - Clicked on proceed to checkout on signin page
+[INFO ] 2024-05-26 10:06:42.949 [main] Ecommerce - Clicked on proceed to checkout on order address page
+[INFO ] 2024-05-26 10:06:43.184 [main] Ecommerce - selecged term of service check box
+[INFO ] 2024-05-26 10:06:43.819 [main] Ecommerce - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-05-26 10:06:44.255 [main] Ecommerce - Clicked on pay by cheque
+[INFO ] 2024-05-26 10:06:47.126 [main] Ecommerce - Clicked on confirmed order
+[INFO ] 2024-05-26 10:06:48.339 [main] Ecommerce - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-05-26 10:06:55.441 [main] Ecommerce - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-05-26 10:06:56.648 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 10:06:58.548 [main] Ecommerce - ***************TestCase Search Product ends*****************

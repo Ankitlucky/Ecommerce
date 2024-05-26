@@ -15,7 +15,7 @@ import pageObject.BaseClass;
 
 public class Listener extends BaseClass implements ITestListener {
     ExtentTest test;
-    ExtentReports extent = ExtentReportNG.getReporterObject();
+    ExtentReports extent = ExtentReport.getReporterObject();
     WebDriver driver;
 
     public void onTestStart(ITestResult result) {
