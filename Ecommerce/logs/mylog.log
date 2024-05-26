@@ -70,3 +70,86 @@
 ***************TestCase Search Product started*****************
 [INFO ] 2024-05-26 13:30:08.355 [main] Ecommerce - User Email and Password entered.
 [INFO ] 2024-05-26 13:30:10.450 [main] Ecommerce - ***************TestCase Search Product ends*****************
+[INFO ] 2024-05-26 13:53:04.397 [main] Ecommerce - ***************TestCase get text and price of Product Start*****************
+[INFO ] 2024-05-26 13:53:07.235 [main] Ecommerce - ***************get product text *****************
+[INFO ] 2024-05-26 13:53:12.848 [main] Ecommerce - *************** get price of Product ends*****************
+[INFO ] 2024-05-26 13:53:12.856 [main] Ecommerce - ***************TestCase get text and price of Product ends*****************
+[INFO ] 2024-05-26 13:53:21.955 [main] Ecommerce - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-05-26 13:53:23.861 [main] Ecommerce - Clicked on sign
+[INFO ] 2024-05-26 13:53:28.040 [main] Ecommerce - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-05-26 13:53:28.047 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials start *****************
+[INFO ] 2024-05-26 13:53:30.497 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials ends*****************
+[INFO ] 2024-05-26 13:53:30.507 [main] Ecommerce - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-05-26 13:53:35.976 [main] Ecommerce - VerifySignOut - Passed
+[INFO ] 2024-05-26 13:53:35.976 [main] Ecommerce - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-05-26 13:53:47.482 [main] Ecommerce - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-05-26 13:53:49.421 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 13:53:50.745 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 13:53:55.851 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 13:53:55.895 [main] Ecommerce - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-05-26 13:53:55.904 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 13:54:22.893 [main] Ecommerce - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-05-26 13:54:24.792 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 13:54:28.091 [main] Ecommerce - ***************TestCase Search Product ends*****************
+[INFO ] 2024-05-26 13:55:30.425 [main] Ecommerce - ***************TestCase get text and price of Product Start*****************
+[INFO ] 2024-05-26 13:55:36.106 [main] Ecommerce - ***************get product text *****************
+[INFO ] 2024-05-26 13:55:41.122 [main] Ecommerce - *************** get price of Product ends*****************
+[INFO ] 2024-05-26 13:55:41.123 [main] Ecommerce - ***************TestCase get text and price of Product ends*****************
+[INFO ] 2024-05-26 13:55:51.659 [main] Ecommerce - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-05-26 13:55:53.118 [main] Ecommerce - Clicked on sign
+[INFO ] 2024-05-26 13:55:56.281 [main] Ecommerce - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-05-26 13:55:56.289 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials start *****************
+[INFO ] 2024-05-26 13:55:58.217 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials ends*****************
+[INFO ] 2024-05-26 13:55:58.225 [main] Ecommerce - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-05-26 13:56:02.596 [main] Ecommerce - VerifySignOut - Passed
+[INFO ] 2024-05-26 13:56:02.597 [main] Ecommerce - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-05-26 13:56:12.921 [main] Ecommerce - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-05-26 13:56:16.324 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 13:56:18.718 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 13:56:25.997 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 13:56:26.257 [main] Ecommerce - Clicked on add to cart
+[INFO ] 2024-05-26 13:56:28.295 [main] Ecommerce - Clicked on proceed to checkout on product page
+[INFO ] 2024-05-26 13:56:28.479 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 13:56:54.118 [main] Ecommerce - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-05-26 13:56:57.461 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 13:57:04.538 [main] Ecommerce - ***************TestCase Search Product ends*****************
+[INFO ] 2024-05-26 13:58:36.972 [main] Ecommerce - ***************TestCase get text and price of Product Start*****************
+[INFO ] 2024-05-26 13:58:42.082 [main] Ecommerce - ***************get product text *****************
+[INFO ] 2024-05-26 13:58:49.170 [main] Ecommerce - *************** get price of Product ends*****************
+[INFO ] 2024-05-26 13:58:49.175 [main] Ecommerce - ***************TestCase get text and price of Product ends*****************
+[INFO ] 2024-05-26 13:58:59.786 [main] Ecommerce - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-05-26 13:59:01.095 [main] Ecommerce - Clicked on sign
+[INFO ] 2024-05-26 13:59:05.087 [main] Ecommerce - ***************TestCase Verify Login ends*****************
+[INFO ] 2024-05-26 13:59:05.096 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials start *****************
+[INFO ] 2024-05-26 13:59:07.068 [main] Ecommerce - ***************TestCase Verify Login with Invalid Credentials ends*****************
+[INFO ] 2024-05-26 13:59:07.077 [main] Ecommerce - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-05-26 13:59:12.579 [main] Ecommerce - VerifySignOut - Passed
+[INFO ] 2024-05-26 13:59:12.579 [main] Ecommerce - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-05-26 13:59:23.097 [main] Ecommerce - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-05-26 13:59:25.791 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 13:59:29.792 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 13:59:36.443 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 13:59:36.709 [main] Ecommerce - Clicked on add to cart
+[INFO ] 2024-05-26 13:59:38.761 [main] Ecommerce - Clicked on proceed to checkout on product page
+[INFO ] 2024-05-26 13:59:38.761 [main] Ecommerce - Product successfully added to your shopping cart
+[INFO ] 2024-05-26 13:59:43.273 [main] Ecommerce - Clicked on proceed to checkout page
+[INFO ] 2024-05-26 13:59:46.457 [main] Ecommerce - Clicked on proceed to checkout on signin page
+[INFO ] 2024-05-26 13:59:48.528 [main] Ecommerce - Clicked on proceed to checkout on order address page
+[INFO ] 2024-05-26 13:59:48.793 [main] Ecommerce - selecged term of service check box
+[INFO ] 2024-05-26 13:59:51.094 [main] Ecommerce - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-05-26 13:59:52.196 [main] Ecommerce - Clicked on pay by cheque
+[INFO ] 2024-05-26 13:59:58.131 [main] Ecommerce - Clicked on confirmed order
+[INFO ] 2024-05-26 14:00:00.981 [main] Ecommerce - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-05-26 14:00:00.993 [main] Ecommerce - Printed Chiffon Dress entered in search box
+[INFO ] 2024-05-26 14:00:06.893 [main] Ecommerce - size L selected
+[INFO ] 2024-05-26 14:00:07.158 [main] Ecommerce - Clicked on add to cart
+[INFO ] 2024-05-26 14:00:12.275 [main] Ecommerce - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2024-05-26 14:00:22.300 [main] Ecommerce - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-05-26 14:00:26.459 [main] Ecommerce - User Email and Password entered.
+[INFO ] 2024-05-26 14:00:37.821 [main] Ecommerce - ***************TestCase Search Product ends*****************

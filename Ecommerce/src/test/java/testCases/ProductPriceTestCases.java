@@ -10,7 +10,7 @@ import pageObject.SearchProduct;
 
 public class ProductPriceTestCases extends BaseClass {
 	@Test
-	public void VerifyProductPrice() {
+	public void TC_PPP_001_VerifyProductPrice() {
 		logger.info("***************TestCase get text and price of Product Start*****************");
 
 		try {
