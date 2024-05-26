@@ -10,7 +10,7 @@ import pageObject.SearchProduct;
 public class SearchTestCase extends BaseClass {
 
 	@Test
-	public void VerifySearchProduct() {
+	public void TC_SF_001_VerifySearchProduct() {
 		logger.info("\n***************TestCase Search Product started*****************"); 
 		
 		try{

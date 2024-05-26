@@ -1,7 +1,6 @@
 package testCases;
 
 import org.testng.Assert;
-
 import org.testng.annotations.Test;
 
 import pageObject.BaseClass;
@@ -10,7 +9,7 @@ import pageObject.LoginPage;
 public class LoginTestCases extends BaseClass {
 
 	@Test(priority = -1)
-	public void VerifyLoginWithValidCredentials() {
+	public void TC_LF_001_VerifyLoginWithValidCredentials() {
 
 		logger.info("***************TestCase Verify Login starts*****************");
 
@@ -38,7 +37,7 @@ public class LoginTestCases extends BaseClass {
 	}
 
 	@Test(priority = 0)
-	public void VerifyLoginWithInvalidCredentials() {
+	public void TC_LF_002_VerifyLoginWithInvalidCredentials() {
 		logger.info("***************TestCase Verify Login with Invalid Credentials start *****************");
 		try {
 			LoginPage login = new LoginPage(driver);
@@ -62,7 +61,7 @@ public class LoginTestCases extends BaseClass {
 	}
 
 	@Test(priority = 1)
-	public void VerifySignOut() {
+	public void TC_LF_003_VerifySignOut() {
 		logger.info("***************TestCase Verify Sign out starts*****************");
 		try {
 			LoginPage login = new LoginPage(driver);

@@ -15,7 +15,7 @@ import pageObject.SearchProduct;
 public class AddandPaymentTestCases extends BaseClass {
 
 	@Test
-	public void VerifyBuyProduct() {
+	public void TC_CO_001_VerifyBuyProduct() {
 		logger.info("\n***************TestCase Buy Product started*****************");
 
 		try {
@@ -73,7 +73,7 @@ public class AddandPaymentTestCases extends BaseClass {
 	}
 
 	@Test()
-	public void VerifyAddToWishlistWithoutLogin() throws IOException {
+	public void TC_CO_002_VerifyAddToWishlistWithoutLogin() throws IOException {
 		try {
 			AddandPayment addpayment = new AddandPayment(driver);
 			LoginPage login = new LoginPage(driver);
@@ -87,11 +87,11 @@ public class AddandPaymentTestCases extends BaseClass {
 			logger.info("size L selected");
 			addpayment.clikonaddtocart();
 			logger.info("Clicked on add to cart");
-			
+
 			addpayment.clickonProceedtocheckout();
-			
+
 			addpayment.clickoncheckoutsignin();
-			
+
 			if (login.getPageTitle().equals("Login - My Shop")) {
 				logger.info("verifyAddToWishlistWithoutLogin - passed");
 				Assert.assertTrue(true);
